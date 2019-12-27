@@ -32,7 +32,10 @@ Many words have more than one meaning; we have to select the meaning which makes
 Discourse
 ### Text summarization
 Produce a readable summary of a chunk of text. Often used to provide summaries of the text of a known type, such as research papers, articles in the financial section of a newspaper. Two types of summarization 1. Abstract 2. Extract
-
+### Text Similarity
+Measure the similarity between two chunks of data
+### Information Extraction
+Information extraction is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents. In most of the cases this activity concerns processing human language texts by means of natural language processing (NLP).
 ## Speech
 ### Speech recognition
 Given a sound clip of a person or people speaking, determine the textual representation of the speech. In natural speech there are hardly any pauses between successive words, and thus speech segmentation is a necessary subtask of speech recognition (see below).Also, given that words in the same language are spoken by people with different accents, the speech recognition software must be able to recognize the wide variety of input as being identical to each other in terms of its textual equivalent.
